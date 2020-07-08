@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Start or end of a word/out/
+/Problems/Start or end of a word/out/production/classes/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
